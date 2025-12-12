@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 999750,
+      "balance": 999725,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
@@ -75,6 +75,14 @@
       "amount": 5,
       "description": "Aposta no scratch",
       "createdAt": "2025-12-12T15:05:11.348Z"
+    },
+    {
+      "id": 1765551930454,
+      "userId": 1,
+      "type": "bet",
+      "amount": 25,
+      "description": "Aposta no scratch",
+      "createdAt": "2025-12-12T15:05:30.454Z"
     }
   ],
   "bets": [
@@ -149,6 +157,6 @@
       "createdAt": "2025-12-12T15:05:17.361Z"
     }
   ],
-  "jackpot": 1296137.7146002857,
+  "jackpot": 1296607.9901489664,
   "houseProfit": 72.5
 }
