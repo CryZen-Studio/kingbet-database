@@ -15,7 +15,7 @@
       "id": 1765552914160,
       "email": "igor@gmail.com",
       "password": "igr",
-      "balance": 0,
+      "balance": 100,
       "isAdmin": false,
       "createdAt": "2025-12-12T15:21:54.160Z",
       "minesLuck": 0.5,
