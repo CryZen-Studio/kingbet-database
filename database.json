@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 1000.58,
+      "balance": 1000.54,
       "isAdmin": true,
       "createdAt": "2024-01-01",
       "minesLuck": 0.5
@@ -12,5 +12,5 @@
   ],
   "transactions": [],
   "bets": [],
-  "jackpot": 1288110.3420870095
+  "jackpot": 1288442.6515851594
 }
