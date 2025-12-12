@@ -9,8 +9,19 @@
       "createdAt": "2024-01-01",
       "minesLuck": 0.5
     }
+    {
+  "users": [
+    {
+      "id": 2,
+      "email": "ig@gmail.com",
+      "password": "igor14",
+      "balance": 100.54,
+      "isAdmin": true,
+      "createdAt": "2024-01-01",
+      "minesLuck": 2.5
+    }
   ],
   "transactions": [],
   "bets": [],
-  "jackpot": 1292585.0872440326
+  "jackpot": 1289260.4601162511
 }
