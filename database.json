@@ -15,7 +15,7 @@
       "id": 1765552914160,
       "email": "igor@gmail.com",
       "password": "igr",
-      "balance": 100,
+      "balance": 90,
       "isAdmin": false,
       "createdAt": "2025-12-12T15:21:54.160Z",
       "minesLuck": 0.5,
@@ -23,7 +23,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 0,
+      "totalBets": 1,
       "totalWins": 0,
       "lastLogin": "2025-12-12T15:25:11.914Z"
     }
@@ -100,6 +100,14 @@
       "amount": 25,
       "description": "Aposta no scratch",
       "createdAt": "2025-12-12T15:05:30.454Z"
+    },
+    {
+      "id": 1765553122714,
+      "userId": 1765552914160,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no mines",
+      "date": "2025-12-12T15:25:22.714Z"
     }
   ],
   "bets": [
@@ -174,7 +182,7 @@
       "createdAt": "2025-12-12T15:05:17.361Z"
     }
   ],
-  "jackpot": 1299597.9451746389,
-  "houseProfit": 93.75,
-  "lastUpdate": "2025-12-12T15:25:11.914Z"
+  "jackpot": 1299688.303745844,
+  "houseProfit": 102.25,
+  "lastUpdate": "2025-12-12T15:25:22.714Z"
 }
