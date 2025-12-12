@@ -43,6 +43,21 @@
       "totalWithdrawn": 0,
       "totalBets": 0,
       "totalWins": 0
+    },
+    {
+      "id": 1765556561585,
+      "email": "igor@gail",
+      "password": "igr",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2025-12-12T16:22:41.585Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -246,5 +261,5 @@
   ],
   "jackpot": 1299871.3779772944,
   "houseProfit": 194.05,
-  "lastUpdate": "2025-12-12T16:22:23.694Z"
+  "lastUpdate": "2025-12-12T16:22:41.586Z"
 }
