@@ -82,8 +82,18 @@
       "winAmount": 0,
       "status": "active",
       "createdAt": "2025-12-12T15:04:01.065Z"
+    },
+    {
+      "id": 1765551847074,
+      "userId": 1,
+      "game": "mines",
+      "betAmount": 5,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2025-12-12T15:04:07.074Z"
     }
   ],
-  "jackpot": 1291349.9813142922,
-  "houseProfit": 55.5
+  "jackpot": 1291828.0085290105,
+  "houseProfit": 59.75
 }
