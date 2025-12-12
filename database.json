@@ -137,8 +137,18 @@
       "winAmount": 0,
       "status": "active",
       "createdAt": "2025-12-12T15:04:50.901Z"
+    },
+    {
+      "id": 1765551917361,
+      "userId": 1,
+      "game": "scratch",
+      "betAmount": 5,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2025-12-12T15:05:17.361Z"
     }
   ],
-  "jackpot": 1295719.9897953444,
+  "jackpot": 1296137.7146002857,
   "houseProfit": 72.5
 }
