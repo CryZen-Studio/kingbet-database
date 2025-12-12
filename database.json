@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 999765,
+      "balance": 999760,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.5
@@ -50,6 +50,14 @@
       "amount": 5,
       "description": "Aposta no mines",
       "createdAt": "2025-12-12T15:03:54.956Z"
+    },
+    {
+      "id": 1765551874438,
+      "userId": 1,
+      "type": "bet",
+      "amount": 5,
+      "description": "Aposta no mines",
+      "createdAt": "2025-12-12T15:04:34.438Z"
     }
   ],
   "bets": [
@@ -94,6 +102,6 @@
       "createdAt": "2025-12-12T15:04:07.074Z"
     }
   ],
-  "jackpot": 1292604.8255145566,
+  "jackpot": 1292896.2992256803,
   "houseProfit": 59.75
 }
