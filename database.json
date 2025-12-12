@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@kingbet.com",
+      "password": "senha123",
+      "balance": 1000000.00,
+      "isAdmin": true,
+      "createdAt": "2024-01-01",
+      "minesLuck": 0.5
+    }
+  ],
+  "transactions": [],
+  "bets": []
+}
