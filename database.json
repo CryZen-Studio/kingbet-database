@@ -4,14 +4,23 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 1000000,
+      "balance": 999800,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.5
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1765551728171,
+      "userId": 1,
+      "type": "bet",
+      "amount": 200,
+      "description": "Saque via PIX",
+      "createdAt": "2025-12-12T15:02:08.171Z"
+    }
+  ],
   "bets": [],
-  "jackpot": 1285294.5013257544,
+  "jackpot": 1286266.394697458,
   "houseProfit": 0
 }
