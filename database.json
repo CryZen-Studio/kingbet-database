@@ -4,10 +4,11 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 999760,
+      "balance": 999755,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
-      "minesLuck": 0.5
+      "minesLuck": 0.55,
+      "minesPlayed": 1
     }
   ],
   "transactions": [
@@ -58,6 +59,14 @@
       "amount": 5,
       "description": "Aposta no mines",
       "createdAt": "2025-12-12T15:04:34.438Z"
+    },
+    {
+      "id": 1765551884828,
+      "userId": 1,
+      "type": "bet",
+      "amount": 5,
+      "description": "Aposta no mines",
+      "createdAt": "2025-12-12T15:04:44.829Z"
     }
   ],
   "bets": [
