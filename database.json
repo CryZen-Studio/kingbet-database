@@ -78,7 +78,7 @@
       "id": 1765669340335,
       "email": "joao@gmail.com",
       "password": "123",
-      "balance": 0,
+      "balance": 100.5,
       "isAdmin": false,
       "createdAt": "2025-12-13T23:42:20.335Z",
       "minesLuck": 0.5,
@@ -242,6 +242,15 @@
       "amount": 100,
       "description": "Saque via PIX (cpf)",
       "date": "2025-12-13T23:34:33.899Z"
+    },
+    {
+      "id": 1765669373275,
+      "userId": 1765669340335,
+      "type": "admin_adjust",
+      "amount": 100.5,
+      "description": "Ajuste administrativo",
+      "date": "2025-12-13T23:42:53.275Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -368,7 +377,7 @@
       "createdAt": "2025-12-13T23:05:33.768Z"
     }
   ],
-  "jackpot": 1301233.5464866997,
+  "jackpot": 1301263.8591072997,
   "houseProfit": 324.1,
-  "lastUpdate": "2025-12-13T23:42:20.466Z"
+  "lastUpdate": "2025-12-13T23:42:53.275Z"
 }
