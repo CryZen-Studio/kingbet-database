@@ -93,7 +93,7 @@
       "id": 1765669396390,
       "email": "fernando01peixoto@gmail.com",
       "password": "1411@fljee",
-      "balance": 0,
+      "balance": 10,
       "isAdmin": false,
       "createdAt": "2025-12-13T23:43:16.390Z",
       "minesLuck": 0.5,
@@ -266,6 +266,15 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-13T23:42:53.275Z",
       "adminId": 1
+    },
+    {
+      "id": 1765669620678,
+      "userId": 1765669396390,
+      "type": "admin_adjust",
+      "amount": 10,
+      "description": "Ajuste administrativo",
+      "date": "2025-12-13T23:47:00.679Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -394,5 +403,5 @@
   ],
   "jackpot": 1301263.8591072997,
   "houseProfit": 324.1,
-  "lastUpdate": "2025-12-13T23:43:16.390Z"
+  "lastUpdate": "2025-12-13T23:47:00.679Z"
 }
