@@ -73,6 +73,21 @@
       "totalWithdrawn": 0,
       "totalBets": 0,
       "totalWins": 0
+    },
+    {
+      "id": 1765669340335,
+      "email": "joao@gmail.com",
+      "password": "123",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2025-12-13T23:42:20.335Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -355,5 +370,5 @@
   ],
   "jackpot": 1301233.5464866997,
   "houseProfit": 324.1,
-  "lastUpdate": "2025-12-13T23:40:16.202Z"
+  "lastUpdate": "2025-12-13T23:42:20.466Z"
 }
