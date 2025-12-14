@@ -4,13 +4,13 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 949055,
+      "balance": 939055,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 6,
       "lastLogin": "2025-12-14T02:58:43.405Z",
-      "totalBets": 10,
+      "totalBets": 11,
       "totalWins": 1
     },
     {
@@ -427,6 +427,14 @@
       "amount": 10000,
       "description": "Aposta no mines",
       "date": "2025-12-14T02:59:56.880Z"
+    },
+    {
+      "id": 1765681203458,
+      "userId": 1,
+      "type": "bet",
+      "amount": 10000,
+      "description": "Aposta no mines",
+      "date": "2025-12-14T03:00:03.458Z"
     }
   ],
   "bets": [
@@ -645,11 +653,12 @@
       "betAmount": 10000,
       "multiplier": 3.5,
       "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-14T02:59:57.768Z"
+      "status": "lost",
+      "createdAt": "2025-12-14T02:59:57.768Z",
+      "endedAt": "2025-12-14T03:00:01.207Z"
     }
   ],
   "jackpot": 1304725.5126794793,
-  "houseProfit": 43686.85,
-  "lastUpdate": "2025-12-14T03:00:01.202Z"
+  "houseProfit": 52186.85,
+  "lastUpdate": "2025-12-14T03:00:03.458Z"
 }
