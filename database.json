@@ -108,7 +108,7 @@
       "id": 1765671860511,
       "email": "daniprimavera123@gmail.com",
       "password": "DANIPREDRO123",
-      "balance": 0,
+      "balance": 8000.56,
       "isAdmin": false,
       "createdAt": "2025-12-14T00:24:20.512Z",
       "minesLuck": 0.5,
@@ -290,6 +290,15 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-13T23:47:00.679Z",
       "adminId": 1
+    },
+    {
+      "id": 1765671907121,
+      "userId": 1765671860511,
+      "type": "admin_adjust",
+      "amount": 8000.56,
+      "description": "Ajuste administrativo",
+      "date": "2025-12-14T00:25:07.121Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -416,7 +425,7 @@
       "createdAt": "2025-12-13T23:05:33.768Z"
     }
   ],
-  "jackpot": 1301263.8591072997,
+  "jackpot": 1301347.1966025524,
   "houseProfit": 324.1,
-  "lastUpdate": "2025-12-14T00:24:20.518Z"
+  "lastUpdate": "2025-12-14T00:25:07.121Z"
 }
