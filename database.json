@@ -4,13 +4,13 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 999055,
+      "balance": 989055,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 1,
       "lastLogin": "2025-12-14T02:58:43.405Z",
-      "totalBets": 5,
+      "totalBets": 6,
       "totalWins": 1
     },
     {
@@ -387,6 +387,14 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-14T02:58:01.848Z",
       "adminId": 1
+    },
+    {
+      "id": 1765681161490,
+      "userId": 1,
+      "type": "bet",
+      "amount": 10000,
+      "description": "Aposta no mines",
+      "date": "2025-12-14T02:59:21.490Z"
     }
   ],
   "bets": [
@@ -555,7 +563,7 @@
       "createdAt": "2025-12-14T01:33:35.434Z"
     }
   ],
-  "jackpot": 1304456.2672750924,
-  "houseProfit": 1186.85,
-  "lastUpdate": "2025-12-14T02:58:43.406Z"
+  "jackpot": 1304549.4894817611,
+  "houseProfit": 9686.85,
+  "lastUpdate": "2025-12-14T02:59:21.490Z"
 }
