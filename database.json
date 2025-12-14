@@ -108,7 +108,7 @@
       "id": 1765672107464,
       "email": "daniprimavera123@gmai.com",
       "password": "DANIPEDRO123",
-      "balance": 5861.68,
+      "balance": 5386.68,
       "isAdmin": false,
       "createdAt": "2025-12-14T00:28:27.466Z",
       "minesLuck": 0.5,
@@ -116,7 +116,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 0,
+      "totalBets": 1,
       "totalWins": 0,
       "lastLogin": "2025-12-14T00:32:39.674Z"
     }
@@ -309,6 +309,14 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-14T00:29:32.708Z",
       "adminId": 1
+    },
+    {
+      "id": 1765672453441,
+      "userId": 1765672107464,
+      "type": "bet",
+      "amount": 475,
+      "description": "Saque via PIX (cpf)",
+      "date": "2025-12-14T00:34:13.441Z"
     }
   ],
   "bets": [
@@ -435,7 +443,7 @@
       "createdAt": "2025-12-13T23:05:33.768Z"
     }
   ],
-  "jackpot": 1301359.3592540883,
-  "houseProfit": 324.1,
-  "lastUpdate": "2025-12-14T00:32:39.674Z"
+  "jackpot": 1303324.495007602,
+  "houseProfit": 727.85,
+  "lastUpdate": "2025-12-14T00:34:13.441Z"
 }
