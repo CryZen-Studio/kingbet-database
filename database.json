@@ -103,6 +103,21 @@
       "totalWithdrawn": 0,
       "totalBets": 0,
       "totalWins": 0
+    },
+    {
+      "id": 1765671860511,
+      "email": "daniprimavera123@gmail.com",
+      "password": "DANIPREDRO123",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2025-12-14T00:24:20.512Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -403,5 +418,5 @@
   ],
   "jackpot": 1301263.8591072997,
   "houseProfit": 324.1,
-  "lastUpdate": "2025-12-13T23:53:56.526Z"
+  "lastUpdate": "2025-12-14T00:24:20.518Z"
 }
