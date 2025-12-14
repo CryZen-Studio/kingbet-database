@@ -125,7 +125,7 @@
       "id": 1765675679527,
       "email": "IG@GMAIL.COM",
       "password": "123",
-      "balance": 70,
+      "balance": 60,
       "isAdmin": false,
       "createdAt": "2025-12-14T01:27:59.527Z",
       "minesLuck": 0.5,
@@ -137,7 +137,7 @@
       "scratchWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 3,
+      "totalBets": 4,
       "totalWins": 0,
       "lastLogin": "2025-12-14T01:30:38.773Z"
     }
@@ -370,6 +370,14 @@
       "amount": 10,
       "description": "Aposta no Mines",
       "date": "2025-12-14T01:32:54.163Z"
+    },
+    {
+      "id": 1765676013770,
+      "userId": 1765675679527,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no Mines",
+      "date": "2025-12-14T01:33:33.770Z"
     }
   ],
   "bets": [
@@ -528,7 +536,7 @@
       "createdAt": "2025-12-14T01:33:00.254Z"
     }
   ],
-  "jackpot": 1304114.5047469453,
-  "houseProfit": 1178.35,
-  "lastUpdate": "2025-12-14T01:33:00.254Z"
+  "jackpot": 1304377.3111083726,
+  "houseProfit": 1186.85,
+  "lastUpdate": "2025-12-14T01:33:33.770Z"
 }
