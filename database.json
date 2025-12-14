@@ -599,9 +599,19 @@
       "status": "lost",
       "createdAt": "2025-12-14T02:59:33.969Z",
       "endedAt": "2025-12-14T02:59:37.337Z"
+    },
+    {
+      "id": 1765681181645,
+      "userId": 1,
+      "game": "mines",
+      "betAmount": 10000,
+      "multiplier": 3.5,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2025-12-14T02:59:41.645Z"
     }
   ],
   "jackpot": 1304630.1282649455,
   "houseProfit": 26686.85,
-  "lastUpdate": "2025-12-14T02:59:40.732Z"
+  "lastUpdate": "2025-12-14T02:59:41.645Z"
 }
