@@ -125,7 +125,7 @@
       "id": 1765675679527,
       "email": "IG@GMAIL.COM",
       "password": "123",
-      "balance": 80,
+      "balance": 70,
       "isAdmin": false,
       "createdAt": "2025-12-14T01:27:59.527Z",
       "minesLuck": 0.5,
@@ -137,7 +137,7 @@
       "scratchWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 2,
+      "totalBets": 3,
       "totalWins": 0,
       "lastLogin": "2025-12-14T01:30:38.773Z"
     }
@@ -362,6 +362,14 @@
       "amount": 10,
       "description": "Aposta no Subway Surfers",
       "date": "2025-12-14T01:31:56.835Z"
+    },
+    {
+      "id": 1765675974163,
+      "userId": 1765675679527,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no Mines",
+      "date": "2025-12-14T01:32:54.163Z"
     }
   ],
   "bets": [
@@ -510,7 +518,7 @@
       "endedAt": "2025-12-14T01:32:38.292Z"
     }
   ],
-  "jackpot": 1304079.28179316,
-  "houseProfit": 1169.85,
-  "lastUpdate": "2025-12-14T01:32:47.173Z"
+  "jackpot": 1304101.0443523268,
+  "houseProfit": 1178.35,
+  "lastUpdate": "2025-12-14T01:32:54.163Z"
 }
