@@ -4,14 +4,14 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 991935,
+      "balance": 992045,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 6,
       "lastLogin": "2025-12-14T03:06:31.402Z",
-      "totalBets": 14,
-      "totalWins": 2
+      "totalBets": 13,
+      "totalWins": 3
     },
     {
       "id": 1765552914160,
@@ -461,12 +461,12 @@
       "date": "2025-12-14T03:00:07.392Z"
     },
     {
-      "id": 1765681613516,
+      "id": 1765681639772,
       "userId": 1,
-      "type": "bet",
-      "amount": 10,
-      "description": "Aposta no scratch",
-      "date": "2025-12-14T03:06:53.516Z"
+      "type": "win",
+      "amount": 100,
+      "description": "Ganho no scratch",
+      "date": "2025-12-14T03:07:19.772Z"
     }
   ],
   "bets": [
@@ -721,19 +721,9 @@
       "status": "lost",
       "createdAt": "2025-12-14T03:01:31.722Z",
       "endedAt": "2025-12-14T03:02:10.723Z"
-    },
-    {
-      "id": 1765681617772,
-      "userId": 1,
-      "game": "scratch",
-      "betAmount": 10,
-      "multiplier": 1,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-14T03:06:57.772Z"
     }
   ],
-  "jackpot": 1305123.5076888083,
-  "houseProfit": 52288.85,
-  "lastUpdate": "2025-12-14T03:06:57.772Z"
+  "jackpot": 1305240.5035157977,
+  "houseProfit": 52280.35,
+  "lastUpdate": "2025-12-14T03:07:19.772Z"
 }
