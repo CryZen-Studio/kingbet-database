@@ -9,7 +9,7 @@
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 1,
-      "lastLogin": "2025-12-14T00:49:22.859Z",
+      "lastLogin": "2025-12-14T01:34:10.203Z",
       "totalBets": 5,
       "totalWins": 1
     },
@@ -548,5 +548,5 @@
   ],
   "jackpot": 1304377.3111083726,
   "houseProfit": 1186.85,
-  "lastUpdate": "2025-12-14T01:33:35.434Z"
+  "lastUpdate": "2025-12-14T01:34:10.203Z"
 }
