@@ -120,6 +120,25 @@
       "totalBets": 1,
       "totalWins": 0,
       "lastLogin": "2025-12-14T00:32:39.674Z"
+    },
+    {
+      "id": 1765675679527,
+      "email": "IG@GMAIL.COM",
+      "password": "123",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2025-12-14T01:27:59.527Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "subwayPlayed": 0,
+      "subwayWon": 0,
+      "scratchPlayed": 0,
+      "scratchWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -454,5 +473,5 @@
   ],
   "jackpot": 1303354.5726252343,
   "houseProfit": 1152.85,
-  "lastUpdate": "2025-12-14T00:49:22.866Z"
+  "lastUpdate": "2025-12-14T01:27:59.529Z"
 }
