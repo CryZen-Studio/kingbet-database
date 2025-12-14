@@ -4,13 +4,13 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 991935,
+      "balance": 991945,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 6,
       "lastLogin": "2025-12-14T02:59:21.350Z",
-      "totalBets": 14,
+      "totalBets": 13,
       "totalWins": 2
     },
     {
@@ -459,14 +459,6 @@
       "amount": 10,
       "description": "Aposta no subway",
       "date": "2025-12-14T03:00:07.392Z"
-    },
-    {
-      "id": 1765681286640,
-      "userId": 1,
-      "type": "bet",
-      "amount": 10,
-      "description": "Aposta no scratch",
-      "date": "2025-12-14T03:01:26.640Z"
     }
   ],
   "bets": [
@@ -710,9 +702,19 @@
       "status": "lost",
       "createdAt": "2025-12-14T03:00:13.121Z",
       "endedAt": "2025-12-14T03:00:29.806Z"
+    },
+    {
+      "id": 1765681291722,
+      "userId": 1,
+      "game": "scratch",
+      "betAmount": 10,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2025-12-14T03:01:31.722Z"
     }
   ],
-  "jackpot": 1304989.6755666146,
-  "houseProfit": 52288.85,
-  "lastUpdate": "2025-12-14T03:01:26.640Z"
+  "jackpot": 1304956.1598635835,
+  "houseProfit": 52280.35,
+  "lastUpdate": "2025-12-14T03:01:31.722Z"
 }
