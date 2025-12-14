@@ -125,7 +125,7 @@
       "id": 1765675679527,
       "email": "IG@GMAIL.COM",
       "password": "123",
-      "balance": 0,
+      "balance": 100,
       "isAdmin": false,
       "createdAt": "2025-12-14T01:27:59.527Z",
       "minesLuck": 0.5,
