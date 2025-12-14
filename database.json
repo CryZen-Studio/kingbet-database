@@ -4,13 +4,13 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 999555,
+      "balance": 999055,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 1,
       "lastLogin": "2025-12-14T00:35:52.682Z",
-      "totalBets": 4,
+      "totalBets": 5,
       "totalWins": 1
     },
     {
@@ -317,6 +317,14 @@
       "amount": 475,
       "description": "Saque via PIX (cpf)",
       "date": "2025-12-14T00:34:13.441Z"
+    },
+    {
+      "id": 1765672592088,
+      "userId": 1,
+      "type": "bet",
+      "amount": 500,
+      "description": "Saque via PIX (phone)",
+      "date": "2025-12-14T00:36:32.088Z"
     }
   ],
   "bets": [
@@ -443,7 +451,7 @@
       "createdAt": "2025-12-13T23:05:33.768Z"
     }
   ],
-  "jackpot": 1303324.495007602,
-  "houseProfit": 727.85,
-  "lastUpdate": "2025-12-14T00:35:52.682Z"
+  "jackpot": 1303354.5726252343,
+  "houseProfit": 1152.85,
+  "lastUpdate": "2025-12-14T00:36:32.088Z"
 }
