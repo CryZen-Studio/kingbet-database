@@ -125,7 +125,7 @@
       "id": 1765675679527,
       "email": "IG@GMAIL.COM",
       "password": "123",
-      "balance": 100,
+      "balance": 90,
       "isAdmin": false,
       "createdAt": "2025-12-14T01:27:59.527Z",
       "minesLuck": 0.5,
@@ -137,7 +137,7 @@
       "scratchWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 0,
+      "totalBets": 1,
       "totalWins": 0,
       "lastLogin": "2025-12-14T01:30:38.773Z"
     }
@@ -346,6 +346,14 @@
       "amount": 500,
       "description": "Saque via PIX (phone)",
       "date": "2025-12-14T00:36:32.088Z"
+    },
+    {
+      "id": 1765675851388,
+      "userId": 1765675679527,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta na Raspadinha",
+      "date": "2025-12-14T01:30:51.388Z"
     }
   ],
   "bets": [
@@ -472,7 +480,7 @@
       "createdAt": "2025-12-13T23:05:33.768Z"
     }
   ],
-  "jackpot": 1303354.5726252343,
-  "houseProfit": 1152.85,
-  "lastUpdate": "2025-12-14T01:30:38.774Z"
+  "jackpot": 1303358.8692280021,
+  "houseProfit": 1161.35,
+  "lastUpdate": "2025-12-14T01:30:51.388Z"
 }
