@@ -505,11 +505,12 @@
       "betAmount": 10,
       "multiplier": 1,
       "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-14T01:32:00.792Z"
+      "status": "lost",
+      "createdAt": "2025-12-14T01:32:00.792Z",
+      "endedAt": "2025-12-14T01:32:38.292Z"
     }
   ],
-  "jackpot": 1303704.5735050915,
+  "jackpot": 1304013.4123229026,
   "houseProfit": 1169.85,
-  "lastUpdate": "2025-12-14T01:32:00.792Z"
+  "lastUpdate": "2025-12-14T01:32:38.292Z"
 }
