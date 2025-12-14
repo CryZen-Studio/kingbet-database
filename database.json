@@ -4,13 +4,13 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 992055,
+      "balance": 991955,
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
       "minesPlayed": 6,
       "lastLogin": "2025-12-14T02:58:43.405Z",
-      "totalBets": 11,
+      "totalBets": 12,
       "totalWins": 2
     },
     {
@@ -443,6 +443,14 @@
       "amount": 53000,
       "description": "Ganho no mines",
       "date": "2025-12-14T03:00:14.672Z"
+    },
+    {
+      "id": 1765681379998,
+      "userId": 1,
+      "type": "bet",
+      "amount": 100,
+      "description": "Saque via PIX (phone)",
+      "date": "2025-12-14T03:02:59.999Z"
     }
   ],
   "bets": [
@@ -677,7 +685,7 @@
       "endedAt": "2025-12-14T03:00:15.702Z"
     }
   ],
-  "jackpot": 1304818.1263155586,
-  "houseProfit": 52186.85,
-  "lastUpdate": "2025-12-14T03:00:15.702Z"
+  "jackpot": 1304858.5705832068,
+  "houseProfit": 52271.85,
+  "lastUpdate": "2025-12-14T03:03:00.000Z"
 }
