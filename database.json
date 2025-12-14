@@ -131,7 +131,7 @@
       "minesLuck": 0.5,
       "minesPlayed": 0,
       "minesWon": 0,
-      "subwayPlayed": 0,
+      "subwayPlayed": 1,
       "subwayWon": 0,
       "scratchPlayed": 0,
       "scratchWon": 0,
@@ -510,7 +510,7 @@
       "endedAt": "2025-12-14T01:32:38.292Z"
     }
   ],
-  "jackpot": 1304013.4123229026,
+  "jackpot": 1304079.28179316,
   "houseProfit": 1169.85,
-  "lastUpdate": "2025-12-14T01:32:38.292Z"
+  "lastUpdate": "2025-12-14T01:32:47.173Z"
 }
