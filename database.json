@@ -8,7 +8,7 @@
       "isAdmin": true,
       "createdAt": "2025-12-12T15:01:27.838Z",
       "minesLuck": 0.55,
-      "minesPlayed": 1,
+      "minesPlayed": 2,
       "lastLogin": "2025-12-14T02:58:43.405Z",
       "totalBets": 6,
       "totalWins": 1
@@ -575,5 +575,5 @@
   ],
   "jackpot": 1304549.4894817611,
   "houseProfit": 9686.85,
-  "lastUpdate": "2025-12-14T02:59:22.407Z"
+  "lastUpdate": "2025-12-14T02:59:28.324Z"
 }
